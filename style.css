@@ -62,3 +62,40 @@ nav a {
 }
     margin-top: 20px;
 }
+.certificate-card{
+    background:#0b0b16;
+    color:#fff;
+    border-radius:20px;
+    padding:30px;
+    margin:25px 0;
+    border:1px solid rgba(255,255,255,0.08);
+    box-shadow:0 0 20px rgba(0,0,0,0.3);
+}
+
+.gradient-card{
+    background:linear-gradient(135deg,#8b5cf6,#22d3ee,#ec4899);
+    color:white;
+    box-shadow:0 0 30px rgba(34,211,238,.6);
+}
+
+.icon{
+    font-size:40px;
+    margin-bottom:15px;
+}
+
+.certificate-card h3{
+    font-size:28px;
+    margin:10px 0;
+}
+
+.certificate-card p{
+    font-size:18px;
+    color:#e5e7eb;
+}
+
+.certificate-card span{
+    display:block;
+    margin-top:15px;
+    font-size:16px;
+    color:#d1d5db;
+}
