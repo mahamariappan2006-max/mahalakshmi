@@ -534,3 +534,38 @@ nav a {
     transform:scale(1.03);
     box-shadow:0 0 20px rgba(59,130,246,.6);
 }
+.contact-card{
+    background:#0b0b16;
+    color:#fff;
+    border-radius:20px;
+    padding:30px;
+    margin:25px 0;
+    border:1px solid rgba(255,255,255,0.08);
+    box-shadow:0 0 20px rgba(0,0,0,0.3);
+}
+
+.contact-gradient{
+    background:linear-gradient(135deg,#8b5cf6,#22d3ee,#ec4899);
+    color:#fff;
+    box-shadow:0 0 30px rgba(34,211,238,.6);
+}
+
+.contact-card h3{
+    font-size:28px;
+    margin:10px 0;
+}
+
+.contact-card p{
+    font-size:18px;
+    color:#e5e7eb;
+    margin:10px 0;
+}
+
+.contact-card a{
+    color:#ffffff;
+    text-decoration:none;
+}
+
+.contact-card a:hover{
+    text-decoration:underline;
+}
