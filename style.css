@@ -265,3 +265,16 @@ nav a {
 .gradient-card{
     background: linear-gradient(135deg, #7c3aed, #38bdf8);
 }
+.skills {
+    background-color: black;
+    padding: 20px;
+}
+
+.skills h2 {
+    color: blue;
+}
+
+.skills li {
+    color: white;
+    font-size: 18px;
+}
