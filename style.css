@@ -535,7 +535,7 @@ nav a {
     box-shadow:0 0 20px rgba(59,130,246,.6);
 }
 .contact-card{
-    background:#0b0b16;
+    background-color:linear-gradiend(135deg, #3B1FA3, #2563EB, #38BDF8);
     color:#fff;
     border-radius:20px;
     padding:30px;
