@@ -1,27 +1,32 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f7ff;
+    background-color: #f4f7fc;
     margin: 0;
     padding: 0;
+    color: #333;
 }
 
 h1 {
-    background-color: #007bff;
+    background: #007bff;
     color: white;
     text-align: center;
-    padding: 30px;
+    padding: 25px;
     margin: 0;
+    font-size: 38px;
 }
 
 h2 {
     color: #007bff;
     margin-left: 20px;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
 }
 
 p {
     font-size: 18px;
     margin: 20px;
-    color: #333;
+    line-height: 1.8;
 }
 
 section {
@@ -29,4 +34,13 @@ section {
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+footer {
+    background: #007bff;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
 }
