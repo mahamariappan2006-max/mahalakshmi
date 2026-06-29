@@ -278,3 +278,52 @@ nav a {
     color: white;
     font-size: 18px;
 }
+#Skills {
+    background-color: black;
+    padding: 40px;
+    color: white;
+}
+
+#Skills h2 {
+    color: #22d3ee;
+    text-align: center;
+    font-size: 30px;
+}
+
+.skill-item {
+    margin: 20px 0;
+}
+
+.skill-item span {
+    color: white;
+    font-size: 20px;
+}
+
+.line {
+    height: 10px;
+    background-color: #333;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* Skill level colours */
+
+.html {
+    width: 90%;
+    background: linear-gradient(135deg, #8b5cf6, #22d3ee);
+}
+
+.css {
+    width: 85%;
+    background: linear-gradient(135deg, #8b5cf6, #ec4899);
+}
+
+.javascript {
+    width: 75%;
+    background: linear-gradient(135deg, #22d3ee, #ec4899);
+}
+
+.python {
+    width: 80%;
+    background: linear-gradient(135deg, #8b5cf6, #22d3ee, #ec4899);
+}
