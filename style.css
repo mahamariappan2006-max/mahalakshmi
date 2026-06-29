@@ -465,6 +465,70 @@ nav a {
     cursor:pointer;
     transition:0.3s;
 }
+#contact{
+    background: #050816;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+#contact h5{
+    color: #38bdf8;
+    font-size: 18px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}
+
+#contact form{
+    max-width: 600px;
+    margin: auto;
+    padding: 35px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgba(59,130,246,0.2);
+}
+
+#contact input,
+#contact textarea{
+    width: 100%;
+    padding: 16px;
+    margin: 15px 0;
+    border: none;
+    border-radius: 15px;
+    background: #111827;
+    color: white;
+    font-size: 16px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+#contact input::placeholder,
+#contact textarea::placeholder{
+    color: #bfc6d4;
+}
+
+#contact textarea{
+    height: 140px;
+    resize: none;
+}
+
+#contact button{
+    width: 100%;
+    padding: 16px;
+    border: none;
+    border-radius: 30px;
+    background: linear-gradient(90deg,#7c3aed,#3b82f6);
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#contact button:hover{
+    transform: scale(1.03);
+    box-shadow: 0 0 20px rgba(59,130,246,0.5);
+}
 
 .contact-form button:hover{
     transform:scale(1.03);
