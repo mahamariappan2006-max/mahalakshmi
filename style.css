@@ -349,7 +349,7 @@ nav a {
     font-weight: bold;
 }
 #Skills {
-    background: linear-gradient(135deg, #8b5cf6, #22d3ee, #ec4899);
+    background-color: linear-gradient(135deg, #8b5cf6, #22d3ee, #ec4899);
     padding: 40px;
     border-radius: 10px;
 }
