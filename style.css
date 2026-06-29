@@ -22,6 +22,31 @@ h2 {
     display: inline-block;
     padding-bottom: 5px;
 }
+.project-card {
+    background: linear-gradient(135deg, #7c3aed, #38bdf8);
+    color: #ffffff;
+    padding: 30px;
+    margin: 20px 0;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(56, 189, 248, 0.6);
+    transition: all 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 40px rgba(56, 189, 248, 0.8);
+}
+
+.project-card h3 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.project-card p {
+    font-size: 18px;
+    color: #e5e7eb;
+    line-height: 1.6;
+}
 
 p {
     font-size: 18px;
