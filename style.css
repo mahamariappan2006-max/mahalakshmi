@@ -167,3 +167,14 @@ nav a {
     font-size: 18px;
     font-weight: 500;
 }
+.skills {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    border-left: 5px solid cyan;
+    padding: 10px;
+    margin: 10px 0;
+    color: white;
+}
