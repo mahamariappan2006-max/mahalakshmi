@@ -124,3 +124,16 @@ nav a {
     background:rgba(255,255,255,.15);
     border:1px solid rgba(255,255,255,.3);
 }
+#Education .about-card {
+    background: linear-gradient(135deg, #8b5cf6, #22d3ee, #ec4899);
+    color: white;
+    padding: 30px;
+    border-radius: 25px;
+    box-shadow: 0 0 30px rgba(34, 211, 238, 0.5);
+    margin-top: 20px;
+}
+
+#Education .about-card p {
+    font-size: 18px;
+    line-height: 1.8;
+}
