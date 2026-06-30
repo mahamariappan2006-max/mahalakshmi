@@ -426,7 +426,7 @@ nav a {
     color:#5b7fff;
 }
 
-.contact-form{
+.contact-card{
     max-width:600px;
     margin:auto;
     background:#0b1020;
@@ -435,8 +435,8 @@ nav a {
     border:1px solid rgba(255,255,255,0.1);
 }
 
-.contact-form input,
-.contact-form textarea{
+.contact-card input,
+.contact-card textarea{
     width:100%;
     padding:18px;
     margin:15px 0;
@@ -448,12 +448,12 @@ nav a {
     outline:none;
 }
 
-.contact-form textarea{
+.contact-card textarea{
     height:140px;
     resize:none;
 }
 
-.contact-form button{
+.contact-card button{
     width:100%;
     padding:18px;
     border:none;
@@ -468,7 +468,7 @@ nav a {
 #contact{
     background-color: linear-gradient(135deg, #2F4BFF, #3FA9F5, #7FEFFF);
     padding: 80px 20px;
-    text-align: center;
+    text-align: left;
 }
 
 #contact h5{
@@ -478,7 +478,7 @@ nav a {
     margin-bottom: 30px;
 }
 
-#contact form{
+#contact card{
     max-width: 600px;
     margin: auto;
     padding: 35px;
