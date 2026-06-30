@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    background-color: linear-gradient(135dge, #8B5CF6, #22D3EE);
+    background: linear-gradient(135deg, #8B5CF6, #22D3EE);;
     color: white;
     text-align: center;
     padding: 25px;
