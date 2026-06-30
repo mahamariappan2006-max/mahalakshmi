@@ -579,3 +579,17 @@ h2{
     color: #8B5CF6 !important;
     border-bottom: none;
 }
+#contact{
+    text-align: left;
+}
+
+#contact h2{
+    text-align: left;
+    margin-left: 20px;
+    color: #8B5CF6;
+    border-bottom: none;
+}
+
+.contact-card h3{
+    text-align: center;
+}
