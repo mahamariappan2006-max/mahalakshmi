@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    color: red;
+    color: cyan;
     margin-left: 20px;
     border-bottom: none;
     display: inline-block;
@@ -576,7 +576,7 @@ nav a {
     text-align: center;
 }
 h2{
-    color: red !important;
+    color: cyan !important;
     border-bottom: none;
 }
 #contact{
@@ -586,7 +586,7 @@ h2{
 #contact h2{
     text-align: left;
     margin-left: 20px;
-    color: red;
+    color: cyan;
     border-bottom: none;
 }
 .contact-card{
@@ -621,7 +621,7 @@ section {
     height:180px;
     border-radius:50%;
     object-fit:cover;
-    border:5px solid white;
+    border:5px solid cyan;
     object-position:center 10%
 }
 
