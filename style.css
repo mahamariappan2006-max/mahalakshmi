@@ -596,3 +596,6 @@ h2{
 .contact-card h3{
     text-align: center;
 }
+#Skills{
+    background: linear-gradient(135deg, #8b5cf6, #22d3ee, #ec4899) !important;
+}
