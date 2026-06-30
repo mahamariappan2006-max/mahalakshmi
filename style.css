@@ -18,7 +18,7 @@ h1 {
 h2 {
     color: #007bff;
     margin-left: 20px;
-    border-bottom: 2px solid #007bff;
+    border-bottom: none;
     display: inline-block;
     padding-bottom: 5px;
 }
