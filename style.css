@@ -466,7 +466,7 @@ nav a {
     transition:0.3s;
 }
 #contact{
-    background-color: linear-gradient(135deg, #2F4BFF, #3FA9F5, #7FEFFF);
+    background: linear-gradient(135deg, #7c3aed, #38bdf8);
     padding: 80px 20px;
     text-align: left;
 }
@@ -570,7 +570,7 @@ nav a {
     text-decoration:underline;
 }
 .hero {
-    background: linear-gradient(135deg, #8b5cf6, #06b6d4);
+    background: linear-gradient(135deg, #7c3aed, #38bdf8);
     color: #fff;
     padding: 50px 20px;
     text-align: center;
