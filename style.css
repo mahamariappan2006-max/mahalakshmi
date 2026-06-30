@@ -611,5 +611,17 @@ section {
     border-radius: 0;
     box-shadow: none;
 }
+.profile{
+    text-align:center;
+    margin-top:20px;
+}
+
+.profile img{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid white;
+}
 
     
